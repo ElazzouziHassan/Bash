@@ -1,7 +1,9 @@
 #!/bin/bash
 
 name="Hassan"
-age=27
+date=$(date)
 
 echo "Hello, my name is $name."
-echo "I'm $age YO."
+echo "The system date indicate to:"
+echo $date
+echo "My username is : $USER"

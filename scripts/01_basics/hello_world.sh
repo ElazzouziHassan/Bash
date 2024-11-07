@@ -1,4 +1,4 @@
 #!/bin/bash
+# hello_world.sh
 
-# Print "Hello, World!"
 echo "Hello, World!"
